@@ -1,8 +1,4 @@
----
-tags: cssi, basic python, comments
-level: 1
-languages: python
----
+
 #Python Comments
 
 #Objectives:
