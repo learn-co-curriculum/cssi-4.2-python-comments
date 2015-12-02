@@ -24,3 +24,5 @@ Comments can span multiple lines (more useful in a file than an interpreter):
 ```
 #Conclusion
 Try adding a comment at the top of your practice.py file
+
+<a href='https://learn.co/lessons/cssi-4.2-python-comments' data-visibility='hidden'>View this lesson on Learn.co</a>
